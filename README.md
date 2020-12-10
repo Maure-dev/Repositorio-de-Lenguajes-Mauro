@@ -9,3 +9,4 @@
 * Comunicación entre procesos
 * Memoria compartida
 * Maneras de hacer programas que aprovechen la concurrencia
+## En Python
